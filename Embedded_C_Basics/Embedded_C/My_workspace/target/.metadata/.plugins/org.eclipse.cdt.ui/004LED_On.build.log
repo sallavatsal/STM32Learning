@@ -1,0 +1,20 @@
+12:54:26 **** Incremental Build of configuration Debug for project 004LED_On ****
+make -j12 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -DDEBUG -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "004LED_On.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\vhs0104\Desktop\Github_for_STM32F4\stm32f4discoveryboard\Embedded_C\My_workspace\target\004LED_On\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="004LED_On.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 004LED_On.elf
+ 
+arm-none-eabi-objdump -h -S  004LED_On.elf  > "004LED_On.list"
+arm-none-eabi-objcopy  -O binary  004LED_On.elf  "004LED_On.bin"
+arm-none-eabi-size   004LED_On.elf 
+   text	   data	    bss	    dec	    hex	filename
+    804	      8	   1568	   2380	    94c	004LED_On.elf
+Finished building: default.size.stdout
+ 
+Finished building: 004LED_On.list
+Finished building: 004LED_On.bin
+ 
+ 
+
+12:54:31 Build Finished. 0 errors, 0 warnings. (took 4s.608ms)
+

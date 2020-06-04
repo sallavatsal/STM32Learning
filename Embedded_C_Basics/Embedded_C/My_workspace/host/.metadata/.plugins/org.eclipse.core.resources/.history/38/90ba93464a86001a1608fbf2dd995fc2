@@ -1,0 +1,20 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include<stdio.h>
+#include<stdint.h>
+
+int main(){
+	uint8_t a = 40, b = 30;
+
+	printf("And: %d", a&b);				// Bitwise AND
+	printf("\nOR: %d", a||b);				// Bitwise OR
+	printf("\nXOR: %d", a^b);				// Bitwise XOR
+	printf("\nNOT: %d", ~a);				// Bitwise NOT
+
+	return 0;
+}

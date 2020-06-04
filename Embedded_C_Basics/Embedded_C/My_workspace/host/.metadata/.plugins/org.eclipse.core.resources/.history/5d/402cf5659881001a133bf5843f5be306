@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 18, 2020
+ *      Author: vatsalsalla
+ */
+
+#include <stdio.h>
+#include "math.h"
+
+int main(){
+	int a=2, b=3;
+	printf("Addition = %d", addition(a,b));
+	printf("Subtraction = %d", addition(a,b));
+	printf("Multiplication = %d", addition(a,b));
+	printf("Division = %d", addition(a,b));
+	return 0;
+}

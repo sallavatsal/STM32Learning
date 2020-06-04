@@ -1,0 +1,36 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 28, 2020
+ *      Author: VHS0104
+ */
+
+#include <stdio.h>
+#include <stdint.h>
+
+void wait_for_user_input();
+
+int main(){
+	uint8_t i, j, userInput;
+
+	printf("Enter pyramid height: ");
+	fflush(stdout);
+	scanf("%hhu", &userInput);
+
+	for(i=userInput; i>0; --i){
+		for(j=i; j>0; --j){
+			printf("%d ", j);
+		}
+		printf("\n");
+	}
+
+	wait_for_user_input();
+	return 0;
+}
+
+wait_for_user_input(){
+	while(getchar()!='\n'){
+
+	}
+	getchar();
+}

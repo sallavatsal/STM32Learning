@@ -1,0 +1,17 @@
+ /*
+ * 32BitPacket.h
+ *
+ *  Created on: Apr 30, 2020
+ *      Author: VHS0104
+ */
+
+typedef struct{
+	uint8_t crc;
+	uint8_t status;
+	uint16_t payload;
+	uint8_t bat;
+	uint8_t sensor;
+	uint8_t long_addr;
+	uint8_t short_addr;
+	uint8_t addr_mode;
+}32BitPacket;

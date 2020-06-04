@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 27, 2020
+ *      Author: VHS0104
+ */
+
+#include<stdio.h>
+#include<stdint.h>
+
+int main(){
+
+	uint32_t* add1 = (uint32_t*)(0x40023830);
+	uint32_t* add2 = (uint32_t*)(0x40020C00);
+	uint32_t* add3 = (uint32_t*)(0x40020C14);
+
+	return 0;
+}

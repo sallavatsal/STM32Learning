@@ -1,0 +1,10 @@
+18:13:01 **** Build of configuration Debug for project 005LED_Toggle_Bitfields ****
+make -j12 all 
+arm-none-eabi-size   005LED_Toggle_Bitfields.elf 
+   text	   data	    bss	    dec	    hex	filename
+    788	      8	   1568	   2364	    93c	005LED_Toggle_Bitfields.elf
+Finished building: default.size.stdout
+ 
+
+18:13:03 Build Finished. 0 errors, 0 warnings. (took 1s.311ms)
+

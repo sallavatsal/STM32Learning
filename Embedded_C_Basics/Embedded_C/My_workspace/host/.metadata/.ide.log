@@ -1,0 +1,28 @@
+2020-04-16 19:23:33,684 [INFO] Activator:176 - 
+
+
+2020-04-16 19:23:33,685 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:23:34,439 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-16 19:25:52,038 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:25:52,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:33:41,131 [INFO] Activator:176 - 
+
+
+2020-04-16 19:33:41,133 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:33:43,140 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-16 19:36:13,137 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:36:13,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:55:16,814 [INFO] Activator:176 - 
+
+
+2020-04-16 19:55:16,816 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:55:19,849 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-18 12:24:49,483 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-18 12:24:49,484 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-18 12:25:43,222 [INFO] Activator:176 - 
+
+
+2020-04-18 12:25:43,224 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-18 12:25:45,637 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-19 14:01:06,318 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-19 14:01:06,320 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread

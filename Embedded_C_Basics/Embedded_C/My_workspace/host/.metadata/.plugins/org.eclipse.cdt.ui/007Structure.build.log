@@ -1,0 +1,7 @@
+12:05:11 **** Incremental Build of configuration Debug for project 007Structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o 007Structure.exe main.o 
+
+12:05:14 Build Finished. 0 errors, 0 warnings. (took 2s.440ms)
+

@@ -1,0 +1,15 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include<stdio.h>
+
+int main(){
+	char var = 100;
+	printf("Address of var = %c", var);
+
+	return 0;
+}

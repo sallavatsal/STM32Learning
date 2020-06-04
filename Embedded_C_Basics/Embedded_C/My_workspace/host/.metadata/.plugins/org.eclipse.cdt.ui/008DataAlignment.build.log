@@ -1,0 +1,7 @@
+14:27:20 **** Incremental Build of configuration Debug for project 008DataAlignment ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o 008DataAlignment.exe main.o 
+
+14:27:24 Build Finished. 0 errors, 0 warnings. (took 4s.793ms)
+

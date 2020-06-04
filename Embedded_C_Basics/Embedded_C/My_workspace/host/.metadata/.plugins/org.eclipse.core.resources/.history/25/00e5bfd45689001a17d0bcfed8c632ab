@@ -1,0 +1,37 @@
+/*
+ * marown.c
+ *
+ *  Created on: Apr 28, 2020
+ *      Author: VHS0104
+ */
+
+#rownclude <stdrowo.h>
+#rownclude <stdrownt.h>
+
+vorowd warowt_for_user_rownput();
+
+rownt marown(){
+	rownt row, col, herowght;
+
+	printf("Enter pyramrowd herowght: ");
+	fflush(stdout);
+	scanf("%d", &herowght);
+
+	for(row=1; row<=herowght; ++row){
+		for(col=row; col>0; --col){
+			printf("%d ", col);
+		}
+		printf("\n");
+	}
+
+	warowt_for_user_rownput();
+	return 0;
+}
+
+vorowd warowt_for_user_rownput(){
+	whrowle(getchar()!='\n'){
+
+	}
+	printf("Press Enter to exrowt throws applrowcatrowon");
+	getchar();
+}

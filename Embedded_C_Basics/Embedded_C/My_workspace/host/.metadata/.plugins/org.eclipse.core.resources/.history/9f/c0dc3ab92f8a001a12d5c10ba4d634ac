@@ -1,0 +1,38 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 29, 2020
+ *      Author: VHS0104
+ */
+
+#include<stdio.h>
+#include<stdint.h>
+#include "Records.h"
+
+int main(){
+	struct carModel carFord = {.carNumber = 2021, .carPrice = 15000, .carMaxSpeed = 220, .carWeight = 1330};
+	struct carModel const carBMW = {.carNumber = 4031, .carPrice = 35000, .carMaxSpeed = 160, .carWeight = 1900.96};
+	struct carModel carHonda = {2020, 50000, 200, 132.12};
+
+	printf("Details of BMW is as follows: ");
+	printf("\nNumber = %u", carFord.carNumber);
+	printf("\nPrice = %u", carFord.carPrice);
+	printf("\nMax Speed = %u", carFord.carMaxSpeed);
+	printf("\nWeight = %f", carFord.carWeight);
+
+	printf("\n\nDetails of Ford is as follows: ");
+	printf("\nNumber = %u", carBMW.carNumber);
+	printf("\nPrice = %u", carBMW.carPrice);
+	printf("\nMax Speed = %u", carBMW.carMaxSpeed);
+	printf("\nWeight = %f", carBMW.carWeight);
+
+	carHonda.carPrice = 20000;
+
+	printf("\n\nDetails of Honda is as follows: ");
+	printf("\nNumber = %u", carHonda.carNumber);
+	printf("\nPrice = %u", carHonda.carPrice);
+	printf("\nMax Speed = %u", carHonda.carMaxSpeed);
+	printf("\nWeight = %f", carHonda.carWeight);
+
+	return 0;
+}

@@ -1,0 +1,16 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 16, 2020
+ *      Author: Vatsal Salla
+ */
+#include<stdio.h>
+
+int main()
+{
+	printf("Hello World!\n");
+	printf("Press 'Enter' to exit");
+	getchar();
+
+	return 0;
+}

@@ -1,0 +1,31 @@
+/*
+ * main_new.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include <stdio.h>
+#include <stdint.h>
+
+int main(){
+	// Applicability of Bitwise operators: Testing of bits(&)
+	// Testing the LSB of any number to see if a number is odd/even
+	int32_t num;
+	int32_t mask = 0x1;
+
+	printf("Enter a number: ");
+	scanf("%i", &num);
+
+	if(num&mask)
+		printf("Number is odd");
+	else
+		printf("Number is even");
+
+	while(getchar()!='\n'){
+
+	}
+	getchar();
+
+	return 0;
+}

@@ -1,0 +1,20 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include<stdio.h>
+#include<stdint.h>
+
+int main(){
+	uint8_t a, b;
+
+	o1 = a&b;		// Bitwise AND
+	o2  a||b;			// Bitwise OR
+	o3  a^b;			// Bitwise XOR
+	o4 ~a;				// Bitwise NOT
+
+	return 0;
+}

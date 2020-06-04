@@ -1,0 +1,29 @@
+/*
+ * main_new.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include <stdio.h>
+#include <stdint.h>
+
+int main(){
+	// Applicability of Bitwise operators: Testing of bits(&)
+	uint8_t num;
+
+	printf("Enter a number: ");
+	scanf("%d", &num);
+
+	if((num&1) == 1)
+		printf("Number is odd");
+	else
+		printf("Number is even");
+
+	while(getchar()!='\n'){
+
+	}
+	getchar();
+
+	return 0;
+}

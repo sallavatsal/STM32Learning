@@ -1,0 +1,63 @@
+/*
+ * main.c
+ *	
+ *  Created on: Apr 30, 2020
+ *      Author: VHS0104
+ */
+
+// Given a 32-bit packet, decode it as shown in the question.
+
+#include<stdio.h>
+#include<stdint.h>
+
+typedef struct{
+	uint8_t crc;
+	uint8_t status;
+	uint16_t payload;
+	uint8_t bat;
+	uint8_t sensor;
+	uint8_t long_addr;
+	uint8_t short_addr;
+	uint8_t addr_mode;
+}BitPacket;
+
+int main(){
+	uint32_t packet;			// Given Packet to Decode [1-2-8-3-3-12-1-2(LSB)]
+	BitPacket test;
+	
+	printf("Please Enter the packet Value in Hex: ");
+	fflush(stdout);
+	scanf(" %X", &packet);
+
+	test.crc = 0;
+	test.status = 0;
+	test.payload = 0;
+	test.bat = 0;
+	test.sensor = 0;
+	test.long_addr = 0;
+	test.short_addr = 0;
+	test.addr_mode = 0;
+
+	test.crc = ((packet)&0x3);
+	test.status = ((packet>>2)&0x1);
+	test.payload = ((packet>>3)&0xFFF);
+	test.bat = ((packet>>15)&0x7);
+	test.sensor = ((packet>>18)&0x7);
+	test.long_addr = ((packet>>21)&0xFF);
+	test.short_addr = ((packet>>29)&0x3);
+	test.addr_mode = ((packet>>31)&0x1);
+
+	printf("crc = %X", test.crc);
+	printf("\nstatus = %X", test.status);
+	printf("\npayload = %X", test.payload);
+	printf("\nbat = %X", test.bat);
+	printf("\nsensor = %X", test.sensor);
+	printf("\nlong_addr = %X", test.long_addr);
+	printf("\nshort_addr = %X", test.short_addr);
+	printf("\naddr_mode = %X", test.addr_mode);
+
+	printf("\nPress Enter to Exit");
+	getchar();
+
+	return 0;
+}

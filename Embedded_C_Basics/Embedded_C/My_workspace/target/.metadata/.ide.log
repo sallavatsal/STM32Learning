@@ -1,0 +1,983 @@
+2020-04-16 19:23:20,260 [INFO] Activator:176 - 
+
+
+2020-04-16 19:23:20,262 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:23:21,067 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-16 19:23:28,742 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:23:28,743 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:23:28,785 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket closed
+2020-04-16 19:23:28,787 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2020-04-16 19:25:55,526 [INFO] Activator:176 - 
+
+
+2020-04-16 19:25:55,528 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:25:57,026 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-16 19:33:10,465 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:33:10,466 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:36:16,831 [INFO] Activator:176 - 
+
+
+2020-04-16 19:36:16,833 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-16 19:36:18,826 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-16 19:36:35,415 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-16 19:36:35,427 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-16 19:36:35,430 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-16 19:36:35,431 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:35,431 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:35,432 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-16 19:36:35,440 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,441 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,442 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,443 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,444 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,723 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-16 19:36:35,812 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-04-16 19:36:35,901 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-04-16 19:36:35,901 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-16 19:36:35,901 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-16 19:36:35,902 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:35,902 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:35,902 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-16 19:36:35,902 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,903 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,903 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,903 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,903 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,903 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,903 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,903 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,903 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,904 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:35,904 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,904 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:35,904 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-16 19:36:35,960 [INFO] MainPanel:185 - HeapMemory: 307232768
+2020-04-16 19:36:36,032 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-16 19:36:36,032 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-16 19:36:36,032 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:36,033 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-16 19:36:36,033 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-16 19:36:36,033 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,033 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:36,034 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,034 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:36,034 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,034 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:36,034 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,034 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:36,034 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,035 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-16 19:36:36,035 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,035 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-16 19:36:36,035 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-16 19:36:36,049 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-16 19:36:36,050 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-04-16 19:36:36,052 [INFO] PluginManage:292 - Check plugin analytics
+2020-04-16 19:36:36,059 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-04-16 19:36:36,060 [INFO] PluginManage:292 - Check plugin clock
+2020-04-16 19:36:36,069 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-04-16 19:36:36,069 [INFO] PluginManage:292 - Check plugin ddr
+2020-04-16 19:36:36,073 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-04-16 19:36:36,073 [INFO] PluginManage:292 - Check plugin filemanager
+2020-04-16 19:36:36,183 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-04-16 19:36:36,183 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-04-16 19:36:36,189 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-04-16 19:36:36,189 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-04-16 19:36:36,199 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-04-16 19:36:36,199 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-04-16 19:36:36,216 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-04-16 19:36:36,216 [INFO] PluginManage:292 - Check plugin power
+2020-04-16 19:36:36,227 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-04-16 19:36:36,227 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-04-16 19:36:36,237 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-04-16 19:36:36,237 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-04-16 19:36:36,280 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 21 ms. number of Sw pack : 9
+2020-04-16 19:36:36,290 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-04-16 19:36:36,290 [INFO] PluginManage:292 - Check plugin tools
+2020-04-16 19:36:36,291 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-04-16 19:36:36,291 [INFO] PluginManage:292 - Check plugin updater
+2020-04-16 19:36:36,301 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-04-16 19:36:36,302 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-04-16 19:36:37,455 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-04-16 19:36:37,514 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,515 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-04-16 19:36:37,522 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,523 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-04-16 19:36:37,527 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,527 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-04-16 19:36:37,530 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,530 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-04-16 19:36:37,538 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,539 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-04-16 19:36:37,541 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,541 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-04-16 19:36:37,542 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,542 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-04-16 19:36:37,544 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,544 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-04-16 19:36:37,547 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,547 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-04-16 19:36:37,548 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,549 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-04-16 19:36:37,551 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,551 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-04-16 19:36:37,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,552 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-04-16 19:36:37,554 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,554 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-04-16 19:36:37,556 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,556 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-04-16 19:36:37,558 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,558 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-04-16 19:36:37,560 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,561 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-04-16 19:36:37,562 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,562 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-04-16 19:36:37,564 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,564 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-04-16 19:36:37,565 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,565 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-04-16 19:36:37,569 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,569 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-04-16 19:36:37,570 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,570 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-04-16 19:36:37,571 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,572 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-04-16 19:36:37,573 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,573 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-04-16 19:36:37,578 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,580 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-04-16 19:36:37,583 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,583 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-04-16 19:36:37,584 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,585 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-04-16 19:36:37,586 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,586 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-04-16 19:36:37,588 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,589 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-04-16 19:36:37,589 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,590 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-04-16 19:36:37,594 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,594 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-04-16 19:36:37,596 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,597 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-04-16 19:36:37,598 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,599 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-04-16 19:36:37,600 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,600 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-04-16 19:36:37,601 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,602 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-04-16 19:36:37,604 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,604 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-04-16 19:36:37,606 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,606 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-04-16 19:36:37,608 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,608 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-04-16 19:36:37,610 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-16 19:36:37,610 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-04-16 19:36:37,674 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: NotDefined
+2020-04-16 19:36:37,751 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-04-16 19:36:37,751 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-04-16 19:36:37,903 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-16 19:36:38,025 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-16 19:36:38,030 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-04-16 19:36:38,031 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-16 19:36:38,034 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-04-16 19:36:38,034 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-04-16 19:36:38,037 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-04-16 19:36:38,246 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-04-16 19:36:38,254 [INFO] Updater:886 - Updater Version found : 5.4.0
+2020-04-16 19:36:38,279 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-16 19:36:38,513 [INFO] MainUpdater:2232 - connection check result : 10
+2020-04-16 19:36:38,513 [INFO] MainUpdater:2859 - Updater definition file requires update
+2020-04-16 19:36:38,514 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-04-16 19:36:38,514 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-04-16 19:36:38,545 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-04-16 19:36:38,623 [INFO] FileExtend:210 - Unzip File : updaters.zip
+2020-04-16 19:36:38,624 [INFO] FileExtend:225 - Standard Zip Deflate
+2020-04-16 19:36:38,800 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-04-16 19:36:38,834 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-04-16 19:36:39,291 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2020-04-16 19:36:39,498 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-BLE1.pdsc
+2020-04-16 19:36:40,728 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:41,341 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-GNSS1.pdsc
+2020-04-16 19:36:42,295 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2020-04-16 19:36:42,571 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:43,033 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:43,595 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:44,075 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:44,619 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:45,127 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-04-16 19:36:45,297 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2020-04-16 19:36:45,766 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-MEMS1.pdsc
+2020-04-16 19:36:46,543 [INFO] MainUpdater:2232 - connection check result : 10
+2020-04-16 19:36:46,544 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-04-16 19:36:47,070 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-04-16 19:36:47,080 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-04-16 19:36:47,082 [INFO] DbMcusXml:106 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/families.xml
+2020-04-16 19:36:47,382 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-NFC4.pdsc
+2020-04-16 19:36:47,462 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-16 19:36:48,117 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-04-16 19:36:48,117 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-16 19:36:48,117 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-04-16 19:36:48,118 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-04-16 19:36:48,300 [WARN] MainUpdater:1075 - Updater busy. Cannot search thirdparties
+2020-04-16 19:36:48,515 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-04-16 19:36:48,516 [WARN] McuDetailPanel:183 - Failed to get advertising image, set to default
+2020-04-16 19:36:48,714 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-SUBG2.pdsc
+2020-04-16 19:36:48,866 [INFO] DbMcusDocs:126 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-16 19:36:48,961 [INFO] DbMcusDocs:61 - Found 541 MCUs documents
+2020-04-16 19:36:48,962 [INFO] ApiDb:186 - Save user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-16 19:36:48,962 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-04-16 19:36:48,962 [INFO] DbMcusXml:106 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/families.xml
+2020-04-16 19:36:49,190 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-16 19:36:49,471 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-ALGOBUILD.pdsc
+2020-04-16 19:36:49,566 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-04-16 19:36:49,567 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-16 19:36:49,567 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-04-16 19:36:49,567 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-04-16 19:36:49,657 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-04-16 19:36:49,714 [INFO] LoadServerUpdatesThread:287 - End of LoadServerUpdate Thread
+2020-04-16 19:36:49,742 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-04-16 19:36:49,785 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,786 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,787 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,788 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,789 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,790 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,791 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,792 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,793 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,794 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,795 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,796 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,797 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,798 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,799 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,800 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,801 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,802 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,803 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,804 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:594 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,805 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,806 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,807 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,808 [INFO] MxPackages:628 - 
+2020-04-16 19:36:49,851 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-16 19:36:49,876 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-16 19:36:49,878 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-04-16 19:36:49,884 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-16 19:36:49,887 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-04-16 19:36:49,888 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-16 19:36:49,918 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-16 19:36:49,923 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-04-16 19:36:49,948 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-04-16 19:36:49,953 [INFO] DbBoards:120 - Found 134 boards (132 are supported by CubeMX)
+2020-04-16 19:36:49,957 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-16 19:36:49,965 [INFO] DbBoardsDocs:57 - Found 162 boards documents
+2020-04-16 19:36:49,966 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-04-16 19:36:49,967 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-04-16 19:36:49,967 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-04-16 19:36:49,967 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-04-16 19:36:49,968 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-04-16 19:36:49,968 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-04-16 19:36:49,968 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-04-16 19:36:49,969 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-04-16 19:36:49,969 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-04-16 19:36:49,969 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-04-16 19:36:49,970 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-04-16 19:36:49,970 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-04-16 19:36:49,970 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-04-16 19:36:49,970 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-04-16 19:36:49,970 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-04-16 19:36:49,971 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-04-16 19:36:49,971 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-04-16 19:36:49,971 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-04-16 19:36:49,972 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-04-16 19:36:49,972 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-04-16 19:36:50,010 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,011 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,012 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,013 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,014 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,015 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,016 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,017 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,018 [INFO] MxPackages:628 - 
+2020-04-16 19:36:50,019 [INFO] PopulateThirdPartyThread:82 - Ending populate Thread
+2020-04-16 19:36:50,023 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-16 19:36:50,062 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 10 ms. number of Sw pack : 15
+2020-04-16 19:36:50,063 [INFO] Engine:437 - softwarePackList size : 15
+2020-04-16 19:36:50,070 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2020-04-16 19:36:50,079 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-04-16 19:36:50,085 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2020-04-16 19:36:50,096 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-04-16 19:36:50,254 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-04-16 19:36:50,263 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-04-16 19:36:50,268 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-04-16 19:36:50,273 [INFO] Engine:453 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2020-04-16 19:36:50,306 [INFO] Engine:449 - compute dependency for SwPack CMSIS have been done, and update is requested
+2020-04-16 19:36:50,312 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-04-16 19:36:50,321 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-04-16 19:36:50,506 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-04-16 19:36:50,535 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-04-16 19:36:50,541 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-04-16 19:36:50,544 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-04-16 19:36:50,548 [INFO] Engine:449 - compute dependency for SwPack X-CUBE-ALGOBUILD have been done, and update is requested
+2020-04-16 19:36:50,551 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-16 19:36:50,569 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 4 ms. number of Sw pack : 15
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-BLE1.5.0.0
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-BLE1.5.0.0
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-GNSS1.4.1.0
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-GNSS1.4.1.0
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-MEMS1.7.1.0
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-MEMS1.7.1.0
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-NFC4.1.5.2
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-NFC4.1.5.2
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-SUBG2.1.1.0
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-SUBG2.1.1.0
+2020-04-16 19:36:50,570 [ERROR] Engine:78 - Software Pack is missing : STMicroelectronics.X-CUBE-ALGOBUILD.1.0.0
+2020-04-16 19:36:50,570 [ERROR] ThirdParty:717 - Engine buildDependencyDb : invalid pack or unsuported pack STMicroelectronics.X-CUBE-ALGOBUILD.1.0.0
+2020-04-16 19:36:50,693 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-04-16 19:36:50,997 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-16 19:36:50,997 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-04-16 19:36:50,997 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-04-16 19:36:51,001 [INFO] DbBoardsDocs:57 - Found 324 boards documents
+2020-04-16 19:36:51,002 [INFO] ApiDb:186 - Save user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-16 19:36:51,002 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-04-16 19:36:51,003 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-16 19:36:51,004 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-04-16 19:36:51,006 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-16 19:36:51,007 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-04-16 19:36:51,008 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-16 19:36:51,010 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-16 19:36:51,010 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-04-16 19:36:51,020 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-04-16 19:36:51,024 [INFO] DbBoards:120 - Found 134 boards (132 are supported by CubeMX)
+2020-04-16 19:36:51,024 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-04-16 19:36:51,025 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-04-16 19:36:51,025 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-04-16 19:36:51,026 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-04-16 19:36:51,026 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-04-16 19:36:51,026 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-04-16 19:36:51,026 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-04-16 19:36:51,026 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-04-16 19:36:51,027 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-04-16 19:36:51,028 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-04-16 19:36:51,028 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-04-16 19:36:51,028 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-04-16 19:36:51,028 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-04-16 19:36:51,028 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-04-16 19:36:51,160 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-04-16 19:36:51,279 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-04-16 19:36:51,338 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-16 19:36:51,350 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 2 ms. number of Sw pack : 15
+2020-04-16 19:36:51,350 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-16 19:36:51,356 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2020-04-16 19:36:51,476 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-16 19:36:51,476 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-04-16 19:36:51,477 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-04-16 19:36:51,588 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-16 19:36:51,589 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-04-16 19:36:51,695 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-16 19:36:51,716 [INFO] BoardDetailPanel:179 - Set advertising image to /Users/vatsalsalla/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-04-16 19:36:51,737 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-04-16 19:36:51,794 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-04-16 19:42:09,376 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-16 19:42:09,408 [INFO] BoardAction:143 - Datasheet
+2020-04-16 19:42:33,510 [INFO] BoardAction:78 - Docs & Resources
+2020-04-16 19:42:51,287 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-16 19:43:34,106 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-04-16 19:43:34,108 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-04-16 19:43:34,108 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-04-16 19:55:12,448 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-16 19:55:12,449 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-18 12:24:56,316 [INFO] Activator:176 - 
+
+
+2020-04-18 12:24:56,319 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-18 12:24:59,295 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-18 12:25:39,535 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-18 12:25:39,536 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-19 14:01:11,106 [INFO] Activator:176 - 
+
+
+2020-04-19 14:01:11,109 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-19 14:01:13,923 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-04-19 14:01:53,245 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-19 14:01:53,259 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-19 14:01:53,263 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-19 14:01:53,263 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:53,263 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:53,265 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-19 14:01:53,271 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:53,272 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:53,273 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:53,274 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:53,275 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,553 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-19 14:01:54,681 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-04-19 14:01:54,770 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-04-19 14:01:54,770 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-19 14:01:54,770 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-19 14:01:54,771 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:54,771 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:54,771 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-19 14:01:54,771 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,772 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,772 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,772 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,772 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,772 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,772 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,772 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,772 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,773 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:54,773 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:54,773 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,774 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-19 14:01:55,845 [INFO] MainPanel:185 - HeapMemory: 298844160
+2020-04-19 14:01:55,907 [INFO] DbMcusXml:68 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/
+2020-04-19 14:01:55,908 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/boardmanager/
+2020-04-19 14:01:55,908 [INFO] DbMcus:265 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:55,908 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/
+2020-04-19 14:01:55,908 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/mcu/
+2020-04-19 14:01:55,908 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,909 [INFO] DbMcusAds:72 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:55,909 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,909 [INFO] DbMcusDocs:92 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:55,909 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,909 [INFO] DbMcusJson:59 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:55,909 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,909 [INFO] DbBoardsDocs:84 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:55,909 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,909 [INFO] DbBoardsJson:51 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-19 14:01:55,910 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:55,910 [WARN] DbFile:31 - Overriding database path with different value: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/ => /Users/vatsalsalla/.stmcufinder/plugins/mcufinder
+2020-04-19 14:01:56,911 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-19 14:01:56,934 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-19 14:01:56,935 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-04-19 14:01:56,937 [INFO] PluginManage:292 - Check plugin analytics
+2020-04-19 14:01:56,948 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-04-19 14:01:56,948 [INFO] PluginManage:292 - Check plugin clock
+2020-04-19 14:01:56,963 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-04-19 14:01:56,963 [INFO] PluginManage:292 - Check plugin ddr
+2020-04-19 14:01:56,968 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-04-19 14:01:56,968 [INFO] PluginManage:292 - Check plugin filemanager
+2020-04-19 14:01:57,085 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-04-19 14:01:57,086 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-04-19 14:01:57,092 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-04-19 14:01:57,092 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-04-19 14:01:57,101 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-04-19 14:01:57,102 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-04-19 14:01:57,118 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-04-19 14:01:57,118 [INFO] PluginManage:292 - Check plugin power
+2020-04-19 14:01:57,127 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-04-19 14:01:57,127 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-04-19 14:01:57,136 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-04-19 14:01:57,136 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-04-19 14:01:57,176 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 19 ms. number of Sw pack : 15
+2020-04-19 14:01:57,185 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-04-19 14:01:57,185 [INFO] PluginManage:292 - Check plugin tools
+2020-04-19 14:01:57,186 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-04-19 14:01:57,186 [INFO] PluginManage:292 - Check plugin updater
+2020-04-19 14:01:57,195 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-04-19 14:01:57,195 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-04-19 14:01:58,404 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-04-19 14:01:58,462 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,463 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-04-19 14:01:58,472 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,473 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-04-19 14:01:58,478 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,478 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-04-19 14:01:58,482 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,482 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-04-19 14:01:58,493 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,493 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-04-19 14:01:58,496 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,496 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-04-19 14:01:58,497 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,498 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-04-19 14:01:58,500 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,500 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-04-19 14:01:58,503 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,503 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-04-19 14:01:58,505 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,505 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-04-19 14:01:58,508 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,508 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-04-19 14:01:58,509 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,510 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-04-19 14:01:58,511 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,511 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-04-19 14:01:58,514 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,514 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-04-19 14:01:58,516 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,516 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-04-19 14:01:58,518 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,518 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-04-19 14:01:58,520 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,520 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-04-19 14:01:58,521 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,521 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-04-19 14:01:58,523 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,523 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-04-19 14:01:58,526 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,526 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-04-19 14:01:58,527 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,527 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-04-19 14:01:58,529 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,529 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-04-19 14:01:58,531 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,531 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-04-19 14:01:58,535 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,537 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-04-19 14:01:58,540 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,540 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-04-19 14:01:58,542 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,542 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-04-19 14:01:58,543 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,543 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-04-19 14:01:58,545 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,545 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-04-19 14:01:58,546 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,547 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-04-19 14:01:58,550 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,550 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-04-19 14:01:58,553 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,553 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-04-19 14:01:58,555 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,555 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-04-19 14:01:58,556 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,556 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-04-19 14:01:58,558 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,558 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-04-19 14:01:58,560 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,560 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-04-19 14:01:58,562 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,562 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-04-19 14:01:58,565 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,565 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-04-19 14:01:58,567 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-04-19 14:01:58,567 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-04-19 14:01:58,632 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: NotDefined
+2020-04-19 14:01:58,707 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-04-19 14:01:58,708 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-04-19 14:01:58,861 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-19 14:01:59,000 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-19 14:01:59,006 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-04-19 14:01:59,006 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-19 14:01:59,009 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-04-19 14:01:59,010 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-04-19 14:01:59,012 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-04-19 14:01:59,213 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-04-19 14:01:59,221 [INFO] Updater:886 - Updater Version found : 5.4.0
+2020-04-19 14:01:59,250 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-04-19 14:01:59,439 [INFO] MainUpdater:2232 - connection check result : 10
+2020-04-19 14:01:59,439 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-04-19 14:01:59,440 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-04-19 14:01:59,464 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-04-19 14:01:59,645 [INFO] MainUpdater:2232 - connection check result : 10
+2020-04-19 14:01:59,646 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-04-19 14:02:00,057 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-04-19 14:02:00,069 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-04-19 14:02:00,072 [INFO] DbMcusXml:106 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//mcu/families.xml
+2020-04-19 14:02:00,318 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-19 14:02:00,359 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 5 ms. number of Sw pack : 15
+2020-04-19 14:02:00,359 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (/Users/vatsalsalla/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-19 14:02:00,375 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2020-04-19 14:02:00,647 [INFO] DbMcusJson:87 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-19 14:02:01,362 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-04-19 14:02:01,364 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-19 14:02:01,365 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-04-19 14:02:01,365 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-04-19 14:02:01,779 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 11:46:15 EST 2019 (1550681175)
+2020-04-19 14:02:01,780 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-19 14:02:01,807 [INFO] McuDetailPanel:180 - Set advertising image to /Users/vatsalsalla/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-04-19 14:02:02,170 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-04-19 14:02:02,267 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-19 14:02:02,269 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-04-19 14:02:02,273 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-19 14:02:02,275 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-04-19 14:02:02,276 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-19 14:02:02,280 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-04-19 14:02:02,283 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-04-19 14:02:02,301 [INFO] DbBoardsJson:79 - JSON generation date=Wed Jan 22 07:22:01 EST 2020 (1579695721)
+2020-04-19 14:02:02,306 [INFO] DbBoards:120 - Found 134 boards (132 are supported by CubeMX)
+2020-04-19 14:02:02,311 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-19 14:02:02,317 [INFO] DbBoardsDocs:57 - Found 162 boards documents
+2020-04-19 14:02:02,317 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-04-19 14:02:02,318 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-04-19 14:02:02,319 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-04-19 14:02:02,319 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-04-19 14:02:02,319 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-04-19 14:02:02,320 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-04-19 14:02:02,320 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4510
+2020-04-19 14:02:02,320 [WARN] DbBoards:152 - board STM32L562E-DK / document id not found: 4514
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-04-19 14:02:02,321 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-04-19 14:02:02,322 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-04-19 14:02:02,322 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4493
+2020-04-19 14:02:02,322 [WARN] DbBoards:152 - board STM32L552E-EV / document id not found: 4509
+2020-04-19 14:02:02,322 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-04-19 14:02:02,322 [WARN] DbBoards:152 - board NUCLEO-L552ZE-Q / document id not found: 4505
+2020-04-19 14:02:02,644 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-04-19 14:02:02,792 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.4.0.201910091541//db//plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-04-19 14:02:03,081 [INFO] ApiDb:158 - Load user favorites file /Users/vatsalsalla/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-19 14:02:03,081 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-04-19 14:02:03,081 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-04-19 14:02:03,128 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-19 14:02:03,129 [INFO] BoardDetailPanel:179 - Set advertising image to /Users/vatsalsalla/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-04-19 14:02:03,147 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-04-19 14:02:03,204 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /Users/vatsalsalla/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-04-19 14:04:48,875 [INFO] DbMcusDocs:126 - JSON generation date=Wed Jan 22 08:50:05 EST 2020 (1579701005)
+2020-04-19 14:04:48,959 [INFO] DbMcusDocs:61 - Found 541 MCUs documents
+2020-04-19 14:06:13,503 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-04-19 14:06:13,504 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-04-19 14:06:13,504 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-04-20 11:26:09,047 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-04-20 11:26:09,052 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread

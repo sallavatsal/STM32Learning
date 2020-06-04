@@ -1,0 +1,38 @@
+/*
+ * main_new.c
+ *
+ *  Created on: Apr 24, 2020
+ *      Author: VHS0104
+ */
+
+#include <stdio.h>
+
+long long int g_data = 0xFFFEABCD11112345;
+
+int main(){
+	char* pAddress1;
+	pAddress1 = (char*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	char* pAddress1;
+	pAddress1 = (char*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	short* pAddress1;
+	pAddress1 = (short*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	int* pAddress1;
+	pAddress1 = (int*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	long* pAddress1;
+	pAddress1 = (long*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	long long* pAddress1;
+	pAddress1 = (long long*)&g_data;
+	printf("Value at %p: %x", pAddress1, *pAddress1);
+
+	return 0;
+}

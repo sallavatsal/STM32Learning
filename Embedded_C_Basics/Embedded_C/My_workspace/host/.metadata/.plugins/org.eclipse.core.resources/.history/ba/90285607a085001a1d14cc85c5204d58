@@ -1,0 +1,12 @@
+/*
+ * main.c
+ *
+ *  Created on: Apr 23, 2020
+ *      Author: VHS0104
+ */
+
+int main(){
+	int _a1, _a2, _a3;
+
+	return 0;
+}
